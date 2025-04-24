@@ -108,5 +108,3 @@ MIT License. Free to use, study, and modify.
 ## 📷 Screenshots
 
 ![screenshot](https://github.com/user-attachments/assets/8514e8c6-d849-446e-b667-866e1ff15f9d)
-
-Let me know if you want me to generate a badge-style GitHub header or add GIF demos!
